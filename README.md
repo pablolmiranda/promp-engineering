@@ -1,4 +1,4 @@
-## Prompt engineering experiments
+## Prompt engineering data exploration experiments
 
 #### Setup
 The instructions assume you have a MacOS system:
